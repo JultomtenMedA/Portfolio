@@ -19,8 +19,9 @@ body{
     color:#D3C9DF;
 }
 #OmMig{
+    position: absolute;
     margin-left: 7%;
-    margin-top: 0%;
+    margin-top: -1%;
     font-size: 325%;
     font-family:Tw Cen MT;
     font-style: italic;
@@ -39,10 +40,13 @@ body{
     background-color: #DBB2FF;
     margin-top: 17%;
 }
-#text1{
+#TextensRuta{
     position: absolute;
+    width:50%;
     margin-top: 2%;
-    margin-left: 4%;
+    margin-left: 3%;
+}
+#text1{
     font-family:Tw Cen MT;
     font-style: italic;
     color: #4F4F4F;
@@ -212,14 +216,16 @@ body{
 }
 #ProjektBild{
     position: absolute;
-    margin-top:15%;
-    margin-left:15%;
-    width: 22%;
+    margin-top:6%;
+    margin-left:2%;
+    width: 32%;
+    border-radius: 10%;
 }
 .ProjektTextRuta{
     position: absolute;
-    margin-top: 3%;
+    margin-top: -10%;
     margin-left:35%;
+    width: 50%;
 }
 #ProjektText{
     display: flex;
