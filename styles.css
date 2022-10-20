@@ -214,6 +214,7 @@ body{
     position: absolute;
     margin-top:15%;
     margin-left:15%;
+    width: 22%;
 }
 .ProjektTextRuta{
     position: absolute;
@@ -230,8 +231,6 @@ body{
     color: #4F4F4F;
     font-size: 150%;
 }
-
-
 
 
 
