@@ -1,0 +1,252 @@
+body{
+    background-color:#F2E7FE;
+}
+
+
+.ruta1{
+    position: absolute;
+    width: 99%;
+    height: 30%;
+    border-radius: 10px;
+    background-color: #23036A;
+
+}
+#Namn{
+    margin-left:7%;
+    margin-top: 1%;
+    font-size: 500%;
+    font-family:Tw Cen MT;
+    color:#D3C9DF;
+}
+#OmMig{
+    margin-left: 7%;
+    margin-top: 0%;
+    font-size: 325%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color:#D3C9DF;
+}
+
+
+.TextRuta.och.Bild{
+    display:flex;
+    justify-content: space-around;
+}
+#TextRuta{
+    width: 55% ;
+    height: 400px;
+    border-radius:90px;
+    background-color: #DBB2FF;
+    margin-top: 17%;
+}
+#text1{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 4%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color: #4F4F4F;
+    font-size: 150%;
+}
+#BildBakgrund{
+    width: 27%;
+    height: 410px;
+    background-color: azure;
+    margin-top:17%;
+}
+#Bild{
+    width: 100%;
+    border-radius: 15%;
+}
+
+
+.KontaktaMigRuta{
+    position: absolute;
+    width: 99%;
+    min-height: 15%;
+    border-radius: 10px;
+    background-color: #23036A;
+    margin-top:4%;
+}
+#KontaktaMig{
+    margin-left: 7%;
+    margin-top: 3%;
+    font-size: 325%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color:#D3C9DF;
+}
+.KontaktaMigTextRuta{
+    display:flex;
+    position: absolute;
+    width: 80% ;
+    height: 400px;
+    border-radius:90px;
+    background-color: #DBB2FF;
+    margin-top: 18%;
+    margin-left:10%;
+    justify-content: space-around;
+    flex-direction: column;
+}
+#KontaktaMigMobil{
+    margin-left: 6%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color: #4F4F4F;
+    font-size: 225%;
+}
+#KontaktaMigMail{
+    margin-left: 6%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color: #4F4F4F;
+    font-size: 225%;
+}
+#KontaktaMigLinktIn{
+    margin-left: 6%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color: #4F4F4F;
+    font-size: 225%;
+}
+#KontaktaMigInstagram{
+    margin-left: 6%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color: #4F4F4F;
+    font-size: 225%;
+}
+#KontaktaMigTwitter{
+    margin-left: 6%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color: #4F4F4F;
+    font-size: 225%;
+}
+
+
+.TidigareArbetenRuta{
+    position: absolute;
+    min-width: 99%;
+    min-height: 15%;
+    border-radius: 10px;
+    background-color: #23036A;
+    margin-top: 52%;
+}
+.TidigareArbetenTextRuta_och_Bilder{
+    position: absolute;
+    width: 80% ;
+    height: 400px;
+    border-radius:90px;
+    background-color: #DBB2FF;
+    margin-top: 66%;
+    margin-left:10%;
+}
+#TidigareArbetenBild1{
+    width: 22%;
+    position: absolute;
+    margin-top:17%;
+    margin-left:5%;
+    border-radius: 10%;
+}
+#TidigareArbetenBild2{
+    width:22%;
+    position: absolute;
+    margin-top:1%;
+    margin-left:5%;
+    border-radius: 10%;
+}
+.TidigareArbetenTextRuta{
+    display: flex;
+    position: absolute;
+    margin-top: -12%;
+    margin-left:35%;
+    width: 60%;
+    height:400px;
+
+}
+#TidigareArbeten{
+    margin-left: 7%;
+    margin-top: 3%;
+    font-size: 325%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color:#D3C9DF;
+}
+#TidigareArbetenText{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-top: 25%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color: #4F4F4F;
+    font-size: 150%;
+}
+
+
+.ProjektRuta{
+    position: absolute;
+    min-width: 99%;
+    min-height: 15%;
+    border-radius: 10px;
+    background-color: #23036A;
+    margin-top: 100%;
+}
+#Projekt{
+    margin-left: 7%;
+    margin-top: 3%;
+    font-size: 325%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color:#D3C9DF;
+}
+.ProjektTextRuta_och_Bild{
+    position: absolute;
+    width: 80% ;
+    height: 400px;
+    border-radius:90px;
+    background-color: #DBB2FF;
+    margin-top: 114%;
+    margin-left: 10%;
+}
+#ProjektBild{
+    position: absolute;
+    margin-top:15%;
+    margin-left:15%;
+}
+.ProjektTextRuta{
+    position: absolute;
+    margin-top: 3%;
+    margin-left:35%;
+}
+#ProjektText{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-top: 25%;
+    font-family:Tw Cen MT;
+    font-style: italic;
+    color: #4F4F4F;
+    font-size: 150%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Tomma_intet{
+    position: absolute;
+    width: 1%;
+    height: 1px;
+    margin-top: 148%;
+}
